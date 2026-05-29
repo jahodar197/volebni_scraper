@@ -1,3 +1,7 @@
+# projekt_3.py: třetí projekt
+# author: Roman Jahoda
+# email: jahodar197@gmail.com
+
 import requests
 from bs4 import BeautifulSoup
 import csv
